@@ -1,1 +1,0 @@
-# Travel Budget Simulator\n\nLocal:\n1. Node 18+\n2. npm install\n3. npm run build && npm run dev\n\nVercel:\n1. Push this folder to a new GitHub repo (package.json at root)\n2. New Project on Vercel, pick the repo, deploy\n
